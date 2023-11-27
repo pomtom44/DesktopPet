@@ -12,6 +12,7 @@ Extract to anywhere and run the EXE
 If you want to download the source code yourself and compile.
 Download the project from github.
 Make sure you have python installed.
+I recommend using the version from the windows store as that is what I used when creating this app.
 Check the code if you like, then run the setup, then build bat files to build your EXE
 
 **Update**<br>
