@@ -13,7 +13,8 @@ If you want to download the source code yourself and compile.
 Download the project from github.
 Make sure you have python installed.
 I recommend using the version from the windows store as that is what I used when creating this app.
-Check the code if you like, then run the setup, then build bat files to build your EXE
+Check the code if you like, then run the BuildPet.bat file to build your EXE
+It will export in the Dist folder
 
 **Update**<br>
 The program will automatically prompt to update if there is one avalibale.
