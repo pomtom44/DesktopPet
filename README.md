@@ -1,8 +1,14 @@
 # DesktopPet
+<br>
+**NOTE:**<BR>
+Some things detect this as unsafe, that is because of the auto updater (I think)<br>
+If you are unsure about running this, feel free to download the code and make the EXE yourself<br>
 
-This started as a small little fun project for my work machine.
-Then a few friends wanted it, so I added a auto update feature.
-And now I figure I may as well put it fully online for anyone to enjoy.
+<hr>
+
+This started as a small little fun project for my work machine.<br>
+Then a few friends wanted it, so I added a auto update feature.<br>
+And now I figure I may as well put it fully online for anyone to enjoy.<br>
 
 **Install**<br>
 If all you want to do is install it, download the latest release zip.
