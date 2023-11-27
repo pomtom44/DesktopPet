@@ -17,12 +17,11 @@ Check the code if you like, then run the setup, then build bat files to build yo
 The program will automatically prompt to update if there is one avalibale.
 
 **ChangeLog**
-
-V1: Initial Build
-V2: Added Swapping pet options
-V3: Updated swapping pet options and added dog
-V4: Changed code to load images better, Added random mode, Fixed display issues
-V5: Fixed display issues and added jump feature
-V6: Added auto updater
-V7: Added config file
-V8: Changed auto updater process and fixed a few bugs
+V1: Initial Build<br>
+V2: Added Swapping pet options<br>
+V3: Updated swapping pet options and added dog<br>
+V4: Changed code to load images better, Added random mode, Fixed display issues<br>
+V5: Fixed display issues and added jump feature<br>
+V6: Added auto updater<br>
+V7: Added config file<br>
+V8: Changed auto updater process and fixed a few bugs<br>
