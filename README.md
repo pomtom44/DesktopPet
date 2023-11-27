@@ -10,7 +10,7 @@ Extract to anywhere and run the EXE
 
 **Compile**<br>
 If you want to download the source code yourself and compile.
-Download the DesktopPet, BuildPet.bat and setup.bat files from above.
+Download the project from github.
 Check the code if you like, then run the setup, then build bat files to build your EXE
 
 **Update**<br>
