@@ -5,7 +5,7 @@ Some things detect this as unsafe, that is because of the auto updater (I think)
 If you are unsure about running this, feel free to download the code and make the EXE yourself<br>
 
 <hr>
-!{}(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjljeThvM3ZodGM0N29pbjhwZjZmd3oyeWk3dzdlcGU4cXd5N2c2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9TKc1KdyYOLWtXST1I/source.gif)
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjljeThvM3ZodGM0N29pbjhwZjZmd3oyeWk3dzdlcGU4cXd5N2c2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9TKc1KdyYOLWtXST1I/source.gif)
 This started as a small little fun project for my work machine.<br>
 Then a few friends wanted it, so I added a auto update feature.<br>
 And now I figure I may as well put it fully online for anyone to enjoy.<br>
