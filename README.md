@@ -1,9 +1,11 @@
 # DesktopPet
 <br>
-**NOTE:**<BR>
+**Note:**<br>
 Some things detect this as unsafe, that is because of the auto updater (I think)<br>
 If you are unsure about running this, feel free to download the code and make the EXE yourself<br>
 
+<hr>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <hr>
 
 This started as a small little fun project for my work machine.<br>
