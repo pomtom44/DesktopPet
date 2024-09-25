@@ -20,7 +20,7 @@ user = ctypes.windll.user32
 
 
 #Static Variables
-update_ver = 8
+update_ver = 9
 xmin = 0
 xmax = 0
 menu_ver = "Version: " + str(update_ver)
