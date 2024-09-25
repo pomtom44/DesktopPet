@@ -35,3 +35,4 @@ V5: Fixed display issues and added jump feature<br>
 V6: Added auto updater<br>
 V7: Added config file<br>
 V8: Changed auto updater process and fixed a few bugs<br>
+V9: Added Goat
