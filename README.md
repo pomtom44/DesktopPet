@@ -27,12 +27,13 @@ It will export in the Dist folder
 The program will automatically prompt to update if there is one avalibale.
 
 **ChangeLog**<br>
-V1: Initial Build<br>
-V2: Added Swapping pet options<br>
-V3: Updated swapping pet options and added dog<br>
-V4: Changed code to load images better, Added random mode, Fixed display issues<br>
-V5: Fixed display issues and added jump feature<br>
-V6: Added auto updater<br>
-V7: Added config file<br>
+V10: Code cleanup and fixed updater<br>
+V9: Added Goat<br>
 V8: Changed auto updater process and fixed a few bugs<br>
-V9: Added Goat
+V7: Added config file<br>
+V6: Added auto updater<br>
+V5: Fixed display issues and added jump feature<br>
+V4: Changed code to load images better, Added random mode, Fixed display issues<br>
+V3: Updated swapping pet options and added dog<br>
+V2: Added Swapping pet options<br>
+V1: Initial Build
